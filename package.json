@@ -1,0 +1,24 @@
+{
+  "name": "Portfolio_Website",
+  "version": "1.0.0",
+  "description": "This portfolio website has included the auto-typing js feature",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aka2029/Portfolio_Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aka2029/Portfolio_Website/issues"
+  },
+  "homepage": "https://github.com/aka2029/Portfolio_Website#readme"
+}
