@@ -4,7 +4,7 @@
   "description": "This portfolio website has included the auto-typing js feature",
   "main": "index.js",
   "dependencies": {
-    "node-sass": "^4.14.0"
+    "node-sass": "^7.0.0"
   },
   "devDependencies": {},
   "scripts": {
